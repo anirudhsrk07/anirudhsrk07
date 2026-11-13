@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 BE 1st Year Student — **CSE (AIML)**  
+- 🎓 BE 2nd Year Student — **CSE (AIML)**  
 - 🤖 Interested in **coding, AI model building, hybrid robots**, and creative tech projects  
 - 📧 Email: **anirudhsrk07@gmail.com**  
 - 🌱 Currently learning **AI, ML, Data Structures, Robotics**  
@@ -42,8 +42,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anirudhsrk07&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhsrk07&layout=compact&theme=tokyonight" />
 </p>
 
 ---
