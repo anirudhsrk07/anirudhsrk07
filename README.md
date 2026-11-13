@@ -32,20 +32,15 @@
 <a href="https://www.linkedin.com/in/anirudh-kulkarni-779035352/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Anirudh%20Kulkarni-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
-<a href="https://www.instagram.com/ani_rudha_07?igsh=MTQxbWlhOHA2dHkyMg==" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-ani_rudha_07-pink?style=for-the-badge&logo=instagram" />
-</a>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anirudhsrk07&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhsrk07&layout=compact&theme=tokyonight" />
+  <img width="48%" alt="GitHub Stats" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img width="48%" alt="Top Languages" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
-
 ---
 
 ⭐ *Feel free to explore my repositories and follow my AI & Robotics journey!*
