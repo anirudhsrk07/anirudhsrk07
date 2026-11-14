@@ -147,7 +147,9 @@ An intelligent robotics project focused on environmental sensing and navigation.
 <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github" />
 </a>
 
-<!-- www.linkedin.com/in/anirudh-kulkarni-779035352 -->
+<a href="https://www.linkedin.com/in/anirudh-kulkarni-779035352/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
