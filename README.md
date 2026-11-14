@@ -119,6 +119,16 @@ An intelligent robotics project focused on environmental sensing and navigation.
   <img width="49%" src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
 
+<h2 align="center">🐍 My Contribution Journey</h2>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/anirudhsrk07/anirudhsrk07/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+    width="100%"
+  />
+</div>
+
 
 ---
 
