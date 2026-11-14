@@ -112,26 +112,13 @@ An intelligent robotics project focused on environmental sensing and navigation.
 
 ---
 
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anirudhsrk07&theme=tokyonight&show_icons=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhsrk07&layout=compact&theme=tokyonight" width="48%" />
-
+  <img width="49%" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img width="49%" src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
 
----
-<h2 align="center">🐍 My Contribution Journey</h2>
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/anirudhsrk07/anirudhsrk07/output/github-contribution-grid-snake-dark.svg"
-    alt="Contribution Snake"
-    width="100%"
-  />
-</div>
 
 ---
 
