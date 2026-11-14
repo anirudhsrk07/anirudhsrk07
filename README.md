@@ -113,7 +113,6 @@ An intelligent robotics project focused on environmental sensing and navigation.
 ---
 
 ## 📊 GitHub Analytics
-## 📊 GitHub Analytics
 
 <div align="center">
 
