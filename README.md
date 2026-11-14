@@ -123,13 +123,14 @@ An intelligent robotics project focused on environmental sensing and navigation.
 </div>
 
 ---
-
-## 🐍 Contribution Journey
+<h2 align="center">🐍 My Contribution Journey</h2>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/anirudhsrk07/anirudhsrk07/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-
+  <img
+    src="https://raw.githubusercontent.com/anirudhsrk07/anirudhsrk07/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+    width="100%"
+  />
 </div>
 
 ---
