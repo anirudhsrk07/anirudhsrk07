@@ -113,12 +113,13 @@ An intelligent robotics project focused on environmental sensing and navigation.
 ---
 
 ## 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anirudhsrk07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=anirudhsrk07&theme=tokyonight&show_icons=true" width="48%" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhsrk07&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhsrk07&layout=compact&theme=tokyonight" width="48%" />
 
 </div>
 
