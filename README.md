@@ -1,6 +1,6 @@
- <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=ANIRUDH%20KULKARNI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineering%20Student%20%7C%20Python%20%7C%20Robotics&descAlignY=55&descSize=16" width="100%" />
+<div align="center">
+  <img src="./Anirudh%20Kulkarni_%20Neon%20Code%20Architect.png" width="100%" />
+</div>
 
 # Hey there! I'm Anirudh 👋
 
