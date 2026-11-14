@@ -77,16 +77,19 @@ An interactive learning platform designed to make quantum algorithms easier to u
 
 **Tech:** AI · Python · Web Development · Quantum Computing
 
-### 3. The Interview Agent
+### 3. Mockify — The Interview Agent
 
-An AI-powered interview preparation platform.
+An interactive interview-preparation prototype with a React frontend and a separate Express/SQLite backend.
 
-- Technical interview preparation.
-- Coding challenges.
-- Behavioural interview modules.
-- AI-based interview assistance.
+- Technical interview practice and sample coding challenges.
+- Behavioural question practice and a virtual interview-room experience.
+- Profile, skills, settings and interview-dashboard screens.
+- Contextual, rule-based demo chat assistant.
+- Express API endpoints for account signup, login and profile operations.
 
-**Tech:** React · JavaScript · AI · Web Development
+**Tech:** React · Vite · JavaScript · Node.js · Express · SQLite
+
+🔗 **[View repository and source code](https://github.com/anirudhsrk07/The-interview-agent)**
 
 ### 4. Autonomous Navigation Robot
 
